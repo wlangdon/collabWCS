@@ -26,3 +26,10 @@ a {
 a:hover {
 	color: white;
 }
+body {
+	background-color: black;
+}
+li {
+	padding-bottom: 7px;
+	text-align: center;
+}
