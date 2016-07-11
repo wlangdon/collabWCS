@@ -2,16 +2,7 @@ a {
 	text-decoration: none;
 	color:  #ac9167;
 	letter-spacing: 3px;
-}
-
-
-
-	
-	
-
-
-}
-
+}	
 .side-bar{
 	width:17.5%;
 	background-color: black;
@@ -21,9 +12,9 @@ a {
 	font-size: 20px;
 	padding-top: 5px;
 	margin-left: -10px;
+	display: inline-block;
 
 }
-
 .main-content{
 	width:82.5%;
 	
