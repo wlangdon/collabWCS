@@ -14,3 +14,21 @@ body{
 /*margin-left: 0px;
 */
 }
+.side-bar{
+width:17.5%;
+background-color: black;
+float:left;
+height: 115.7vh;
+}
+
+.main-content{
+width:82.5%;
+/*height: 100vh;*/
+float:left;
+}
+
+
+body{
+
+
+}
