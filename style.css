@@ -1,19 +1,9 @@
 a {
 	text-decoration: none;
-	color: black;
-}
-img{
-	float:left;
-/*	padding-right: 0px;
-	padding-left: 0px;*/
-	padding-bottom: 0px;
-
+	color: gold;
 }
 
-body{
-/*margin-left: 0px;
-*/
-}
+
 .side-bar{
 width:17.5%;
 background-color: black;
