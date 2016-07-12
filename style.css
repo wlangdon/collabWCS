@@ -31,3 +31,17 @@ li {
 	padding-bottom: 7px;
 	text-align: center;
 }
+p {
+	color: #ac9167;
+}
+.pic {
+	float: left;
+	padding-right: 12px;
+}
+.paragraphs {
+	display: block;
+	letter-spacing: 3px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
